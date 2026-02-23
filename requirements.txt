@@ -1,0 +1,15 @@
+transformers
+accelerate
+spacy
+scikit-learn
+pandas
+numpy
+matplotlib
+opencv-python
+pillow
+tqdm
+requests
+nltk
+datasets
+sentencepiece
+protobuf
