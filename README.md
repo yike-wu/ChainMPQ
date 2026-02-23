@@ -61,6 +61,16 @@ conda activate chainmpq
 pip install -r requirements.txt
 ```
 
+#### Download LVLM Backbones (Example: LLaVA-1.5-7B)
+
+We use Hugging Face Hub to download model weights locally:
+
+```bash
+pip install -U huggingface-hub
+huggingface-cli login   # optional if the model is public
+huggingface-cli download liuhaotian/llava-v1.5-7b --local-dir llava-v1.5-7b
+```
+
 ## Reproducing Results
 
 Evaluation scripts for:
