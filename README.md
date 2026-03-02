@@ -21,7 +21,7 @@ ChainMPQ is model-agnostic and can be integrated with multiple LVLM backbones.
 ## Method
 
 <p align="center">
-  <img src="assets/framework.png" width="80%">
+  <img src="framework.png" width="80%">
 </p>
 
 ChainMPQ enhances cross-modal reasoning by:
